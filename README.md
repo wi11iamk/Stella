@@ -13,7 +13,7 @@ Stroke is a leading cause of long-term disability worldwide, often having a sign
 - **Dimensionality Reduction**: Applies **UMAP** to visualize high-dimensional movement features.
 - **Unsupervised Clustering**: Uses **HDBSCAN** to identify distinct movement phenotypes.
 - **Automated Reporting**: Generates clinician-friendly summaries and visualizations.
-- **Configurable & Extendable**: Modular design allows easy adaptation to different datasets and rehabilitation protocols.
+- **Configurable & Extendable**: Modular design allows easy adaptation to different pose datasets.
 
 ## Installation
 ```sh
