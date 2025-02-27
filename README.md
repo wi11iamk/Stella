@@ -1,7 +1,7 @@
 # Stella: Self-Supervised Learning for Clinical Phenotyping of Pose Data
 
 ## Overview
-Stella is a machine learning pipeline designed for **self-supervised phenotyping of upper limb motor impairment** using pose data collected from the comfort of home. By leveraging **SimCLR, UMAP, and HDBSCAN**, it enables **unsupervised clustering** of movement patterns, providing clinicians with an automated tool for tracking motor recovery and tailoring rehabilitation strategies.
+Stella is a machine learning pipeline designed for **self-supervised phenotyping of upper limb motor impairment** using pose data collected from the comfort of patient homes. By leveraging **SimCLR, UMAP, and HDBSCAN**, it enables **unsupervised clustering** of movement patterns, providing clinicians with an automated tool for tracking motor recovery and tailoring rehabilitation strategies.
 
 ### **Why At-Home Clinical Evaluations?**
 Stroke is a leading cause of long-term disability worldwide, often having a significant impact on motor function. Socioeconomic barriers, as well as US and UK therapy quotas, limit access to in-clinic rehabilitation, making **remote, ML-driven motor function assessments** a step toward democratizing and expanding rehabilitation. 
